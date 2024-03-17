@@ -1,3 +1,5 @@
+Welcome to Dataman's Github!
+
 - 👋 Hi, I’m @data-min
 - 👀 I’m interested in Data Analytics, AI, Tech, Business, and Startup
 - 🌱 I’m currently learning Business Data Analytics
