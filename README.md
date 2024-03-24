@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-min&layout=compact)</b>
 
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datamin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1>Tools I Have Used and Learned</h1>
 
