@@ -11,13 +11,13 @@
 data-min/data-min is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h3>📖 Top Languages</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-min&layout=compact)</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-min&layout=compact)
-![Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-min&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=catppuccin_mocha)
 
-<h1>Tools I Have Used and Learned</h1>
+<h1>🖊Tools I Have Used and Learned</h1>
 
-<h2>Development</h2>
+<h2>🖥 Development</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<h2>Data Science </h2>
+<h2>💾 Data Science </h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" width="45" height="45"/>
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<h2>Business & Productivity</h2>
+<h2>🗓 Business & Productivity</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="45" height="45"/>
@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<h2>Design</h2>
+<h2>✍🏻 Design</h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="premierepro" width="45" height="45"/>
