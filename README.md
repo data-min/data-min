@@ -16,9 +16,11 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-min&layout=compact)</b>
 
 
-[![Min's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@datamin)](https://github.com/anuraghazra/github-readme-stats)
+[![Min's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datamin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<br/>
+<figure><embed src="https://wakatime.com/share/@datamin/335f5bf2-61ad-48fc-9a5e-523db70af082.svg"></embed></figure>
+<br/>
 <h1>Tools I Have Used and Learned</h1>
 
 <h2>Development</h2>
