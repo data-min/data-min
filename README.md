@@ -1,16 +1,25 @@
+
+<p align="center">
+    <img src= "https://i.imgur.com/FvPSCk5.png alt="git" width="604" height="339"/>
+<p />
+
+
+
+<p>
 <h1>Welcome to Dataman's Github!</h1>
-
-- 👋 Hi, I’m @data-min
-- 👀 I’m interested in Data Analytics, AI, Tech, Business, and Startup
-- 🌱 I’m currently learning Business Data Analytics
-- 💞️ I’m looking to collaborate on learning coding and creating helpful resources for people
-- 📫 How to reach me is through my email! yourminerva153@gmail.com
-- ⚡ Fun fact: I do ice skating!
-
+- 👋 Hi, I’m @data-min<br/>
+- 👀 I’m passionate about learning a data, AI, Tech, Business, and Startup<br/>
+- 🪿 I'm developing my knowledges in Data Analytics, IT business development, entrepreneurship and product management.<br/>
+- 🌱 I’m currently majoring in Business Data Analytics and certificate in International Business<br/>
+- 💞️ I’m looking to collaborate on learning coding and creating helpful data analytics resources for people.<br/>
+- 📫 How to reach me is through my email! yourminerva153@gmail.com<br/>
+<p />
+    
 <!---
 data-min/data-min is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h3>📖 Top Languages</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-min&layout=compact)</b>
@@ -50,6 +59,8 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+
+        
 <h2>Data Science </h2>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
