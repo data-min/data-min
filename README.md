@@ -6,7 +6,7 @@
 
 
 <p>
-<h1>Welcome to Dataman's Github!</h1>
+<h1>Welcome to Datamin's Github!</h1>
 - 👋 Hi, I’m @data-min<br/>
 - 👀 I’m passionate about learning a data, AI, Tech, Business, and Startup<br/>
 - 🪿 I'm developing my knowledges in Data Analytics, IT business development, entrepreneurship and product management.<br/>
